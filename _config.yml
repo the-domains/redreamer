@@ -55,6 +55,6 @@ content:
 description: 'An experiment in artifical intelligence, dreams, and poetry.'
 purpose:
   - type: external
-    url: 'http://instagram.com/redreamerproject'
-    label: See Full Series
+    url: 'http://instagram.com/redreamer_project'
+    label: 'http://instagram.com/redreamer_project'
 github: true
