@@ -1,0 +1,60 @@
+typography_spectrum: 0.9653323779789971
+color:
+  brandStrength: 0.8565467983511931
+  lightness: 0.029437518717610453
+  saturation: 0.8442168380978452
+  rhythmicContrast: 0.12281361973208219
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.08014387660355557
+name: redreamer
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Instagram
+    url: 'http://instagram.com/redreamer_project'
+    type: external
+  - name: About the Project
+    id: 89af41b2-4109-44c8-a902-46cd01fddd6e
+    type: content
+title: REDREAMER
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8a9f514-148e-4e39-92b8-9883c426d6df.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8a9f514-148e-4e39-92b8-9883c426d6df.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'An AI experiment '
+purpose:
+  - type: external
+    url: 'http://instagram.com/redreamerproject'
+    label: See Full Series
+github: true
