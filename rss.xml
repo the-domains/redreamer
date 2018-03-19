@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[REDREAMER]]></title>
+        <description><![CDATA[REDREAMER]]></description>
+        <link>https://thegrid.ai/redreamer/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Mar 2018 15:54:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redreamer/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 19 Mar 2018 15:54:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Redreamer is an experiment in artificial intelligence and dreams. Using a recurrent neural network trained on a decade’s worth of dream journals this machine is recurrently dreaming, redreaming, dreaming new, fresh entries.</p>]]></description>
+            <link>https://thegrid.ai/redreamer/redreamer-is-an-experiment-in-artificial-intelligence-and-dr/index.html</link>
+            <guid isPermaLink="false">89af41b2-4109-44c8-a902-46cd01fddd6e</guid>
+            <pubDate>Sun, 18 Mar 2018 20:00:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
