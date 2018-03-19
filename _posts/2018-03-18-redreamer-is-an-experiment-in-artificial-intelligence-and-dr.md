@@ -4,8 +4,8 @@ description: >-
   Redreamer is an experiment in artificial intelligence and dreams. Using a
   recurrent neural network trained on a decade’s worth of dream journals this
   machine is recurrently dreaming, redreaming, dreaming new, fresh entries.
-dateModified: '2018-03-19T17:31:28.094Z'
-datePublished: '2018-03-19T17:31:29.159Z'
+dateModified: '2018-03-19T17:31:35.234Z'
+datePublished: '2018-03-19T17:31:35.852Z'
 title: ''
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 Redreamer is an experiment in artificial intelligence and dreams. Using a recurrent neural network trained on a decade's worth of dream journals this machine is recurrently dreaming, redreaming, dreaming new, fresh entries.
 
-While many deep learning projects focused on natural language processing use large datasets in order to better imitate a broader range of conversational dialogue, this project is focused on a very specific corpus: my dream journals from roughly 2010-2018\. This is a relatively small set of data at only a few hundred pages of typed text. It's also a peculiar dataset because it is in the langague of dreams, which doesn't strictly make sense, and which includes dialogue, description, and uncertainty.
+While many deep learning projects focused on natural language processing use large datasets in order to better imitate a broader range of conversational dialogue, this project is focused on a very specific corpus: my dream journals from roughly 2010-2018\. This is a relatively small set of data at only a few hundred pages of typed text. It's also a peculiar dataset because it is in the language of dreams, which doesn't strictly make sense, and which includes dialogue, description, and uncertainty.
 
 The project is also meant to raise questions of authorship, experience, and the self. Am I the author of the work if the machine is trained on my work? There are other projects using similar technology that ask the same question: [DeepBach][0] generates music in the style of Bach, while [TensorFlow RNN Shakespeare][1] creates novel Shakespearean text in the same way the REDREAMER Project works. Is a DeepBach chorale a Bach chorale? Is a TensorFlow Shakespeare script written by Shakespeare? Are these dreams my own?
 
