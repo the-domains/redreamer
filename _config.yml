@@ -10,8 +10,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+github: true
 layout_spectrum: 0.08014387660355557
 name: redreamer
+url: 'https://redreamer.net'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -26,6 +28,9 @@ navigation:
   - name: About the Project
     id: 89af41b2-4109-44c8-a902-46cd01fddd6e
     type: content
+  - name: Github
+    url: 'https://github.com/lfhvn/REDREAMER'
+    type: external
 title: REDREAMER
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -57,5 +62,3 @@ purpose:
   - type: external
     url: 'http://instagram.com/redreamer_project'
     label: See Full Series
-github: true
-url: 'https://redreamer.net'
