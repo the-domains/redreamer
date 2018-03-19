@@ -28,7 +28,7 @@ navigation:
   - name: About the Project
     id: 89af41b2-4109-44c8-a902-46cd01fddd6e
     type: content
-  - name: Github
+  - name: GitHub
     url: 'https://github.com/lfhvn/REDREAMER'
     type: external
 title: REDREAMER
