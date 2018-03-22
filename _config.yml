@@ -62,3 +62,7 @@ purpose:
   - type: external
     url: 'http://instagram.com/redreamer_project'
     label: See Full Series
+analytics:
+  google: UA-116286278-1
+author:
+  email: redreamer@redreamer.net
