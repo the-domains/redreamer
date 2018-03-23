@@ -13,7 +13,7 @@ color:
 github: true
 layout_spectrum: 0.08014387660355557
 name: redreamer
-url: 'https://redreamer.net'
+url: 'https://redreamer.net/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
